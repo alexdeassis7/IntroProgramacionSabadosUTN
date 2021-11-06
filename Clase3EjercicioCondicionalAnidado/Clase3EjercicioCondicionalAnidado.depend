@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636208490 source:c:\users\alex\documents\clase3ejerciciocondicionalanidado\main.c
+	<stdio.h>
+	<stdlib.h>
+
