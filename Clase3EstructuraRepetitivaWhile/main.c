@@ -4,8 +4,9 @@
 int main()
 {
     /**Mostrar el mensaje Hello world 100 veces por pantalla*/
-    int contador = 0,tope = 100000;
+    int contador = 0,tope = 10;
 
+    printf("inicio la estructura repetitiva while \n");
     ///estructura Repetitiva While
     while(contador < tope)
     {
@@ -17,6 +18,8 @@ int main()
         ///contador += 1;
         contador ++;///operadorador autoincremental
     }
+
+    printf("finalizo la estructura repetitiva while \n");
 
     return 0;
 }
