@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638025160 source:c:\users\alex\documents\clase4demoarrays\main.c
+	<stdio.h>
+	<stdlib.h>
+
